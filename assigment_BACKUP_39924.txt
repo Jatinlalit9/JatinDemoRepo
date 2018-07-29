@@ -1,0 +1,14 @@
+test file
+
+
+<<<<<<< HEAD
+testing branch2
+||||||| merged common ancestors
+testing
+=======
+testing Branch1
+>>>>>>> jatinbranch1
+1
+2
+3
+5
